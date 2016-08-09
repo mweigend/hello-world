@@ -1,2 +1,2 @@
 # hello-world
-A place to discus ideas
+A place to discuss ideas
